@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question": "Data Structure and Algorithm Identification:",
+        "options": [
+            "QuickSort",
+            "Sort.js",
+            "SortingAlgorithm",
+            "All of the above"
+        ],
+        "answer": "QuickSort"
+    },
+    {
+        "id": "02",
+        "question": "Advantages of Efficient Algorithms:",
+        "options": [
+            "Efficient algorithms can improve the application's performance with optimized data manipulation.",
+            "Efficient algorithms are easy to integrate with other programming paradigms.",
+            "Efficient algorithms can process data both in memory and on external storage.",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": "03",
+        "question": "Disadvantages in Data Structure Implementation:",
+        "options": [
+            "The data structure has only a storage layer; additional logic is needed for specific operations.",
+            "The data structure library is excessively large.",
+            "The implementation of the data structure promotes readable and writable code.",
+            "The learning curve for using the data structure can be steep."
+        ],
+        "answer": "The implementation of the data structure promotes readable and writable code."
+    },
+    {
+        "id": "04",
+        "question": "Installation of a Data Structure Library:",
+        "options": [
+            "npm install -g data-structure-library",
+            "npx create-data-structure my-library",
+            "npm install data-structure-library",
+            "npm install -f data-structure-library"
+        ],
+        "answer": "npx create-data-structure my-library"
+    },
+    {
+        "id": "05",
+        "question": "Optimizing Performance in Algorithm Design:",
+        "options": [
+            "Original Data Set",
+            "Virtual Data Set",
+            "Both A and B",
+            "None of the above"
+        ],
+        "answer": "Virtual Data Set"
+    },
+    {
+        "id": "06",
+        "question": "Default Port for Algorithm Execution:",
+        "options": [
+            "3000",
+            "8080",
+            "3030",
+            "6060"
+        ],
+        "answer": "3000"
+    },
+    {
+        "id": "07",
+        "question": "Valid Output from an Algorithm Component:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "Unlimited"
+        ],
+        "answer": "1"
+    },
+    {
+        "id": "08",
+        "question": "Declarative Representation of Dynamic Data in Algorithms:",
+        "options": [
+            "Using the reduce array method",
+            "Using the <Each /> component",
+            "Using the Array.map() method",
+            "With a for/while loop"
+        ],
+        "answer": "Using the Array.map() method"
+    },
+    {
+        "id": "09",
+        "question": "Understanding State in Algorithm Design:",
+        "options": [
+            "A permanent storage.",
+            "Internal storage of the algorithm.",
+            "External storage of the algorithm.",
+            "None of the above."
+        ],
+        "answer": "Internal storage of the algorithm."
+    },
+    {
+        "id": "10",
+        "question": "Data Handling in Algorithmic Solutions:",
+        "options": [
+            "State & Props",
+            "Services & Components",
+            "State & Services",
+            "State & Component"
+        ],
+        "answer": "State & Props"
+    }
+]
